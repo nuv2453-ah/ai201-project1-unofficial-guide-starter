@@ -1,0 +1,19 @@
+SOURCE: Purdue CS Faculty Page - Michael Borkowski
+URL: https://www.cs.purdue.edu/people/faculty/mhborkow.html
+Title: Michael H. Borkowski - Assistant Professor of Computer Science
+
+---
+
+Michael Borkowski earned his PhD from the Department of Computer Science and Engineering
+at the University of California, San Diego.
+
+His research interests are in software verification, type theory, and interactive theorem
+provers. Dr. Borkowski is interested in developing software verification techniques to make
+correct and performant software systems easier to write and understand, as well as having
+stronger theoretical soundness guarantees.
+
+Contact: mhborkow@purdue.edu
+
+Courses taught include:
+CS 18000 - Problem Solving and Object-Oriented Programming (CS 180)
+CS 25100 - Data Structures and Algorithms (CS 251)

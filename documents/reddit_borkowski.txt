@@ -1,0 +1,29 @@
+SOURCE: Reddit r/Purdue
+URL: https://www.reddit.com/r/Purdue/comments/1snpeix/cs251_borkowski/
+Thread Title: CS251 Borkowski
+Flair: Academics
+
+---
+
+Original Post (u/Electronic-Buyer-425):
+Does anyone know how much Borkowski curves the class? I'm hoping a 65% would be enough to pass.
+
+---
+
+Comment (u/Old-Rutabaga630):
+Last sem with Blocki + Borkowski a pass was 64.2
+
+---
+
+Comment (u/Electronic-Buyer-425):
+I love u bro, I can pass if I lock in
+
+---
+
+Comment (u/Electronic-Buyer-425):
+Do you remember if the final was MCQ and the overall difficulty?
+
+---
+
+Comment (u/BrawlFan_1):
+Final wasn't MCQ, overall difficulty was medium I'd say. Go over the string matching algos well.

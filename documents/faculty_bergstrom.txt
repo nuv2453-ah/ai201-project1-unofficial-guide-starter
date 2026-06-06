@@ -1,0 +1,21 @@
+SOURCE: Purdue CS Faculty Page - Tony Bergstrom
+URL: https://www.cs.purdue.edu/people/faculty/bgstm.html
+Title: Tony Bergstrom - Associate Teaching Professor of Computer Science
+
+---
+
+Tony Bergstrom is an Associate Teaching Professor of Computer Science at Purdue University.
+He joined the department in Spring 2019.
+
+Education:
+PhD, University of Illinois at Urbana-Champaign, Computer Science (2011)
+MS, University of Illinois at Urbana-Champaign, Computer Science (2006)
+BS, Rose-Hulman Institute of Technology, Computer Science and Mathematics (2004)
+
+Contact: bgstm@purdue.edu
+Office: DSAI 1119F (West Lafayette), SLPI 280F (Indianapolis)
+
+Courses taught include:
+CS 18000 - Problem Solving and Object-Oriented Programming (CS 180)
+CS 24200 - Introduction to Data Science
+CS 19000 - Data Engineering in Python

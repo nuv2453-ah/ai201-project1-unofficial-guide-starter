@@ -1,0 +1,67 @@
+SOURCE: Reddit r/Purdue
+URL: https://www.reddit.com/r/Purdue/comments/cs251_curve/
+Thread Title: CS251 - struggling with grades, curve questions
+Flair: Academics
+
+---
+
+Comment (u/Bidoofthedestroyer):
+Same exact situation here bud, 71.9% and hoping for anything, a curve or a grade cutoff.
+
+Comment (u/Hochie_ OP):
+I've been praying for that but the way he said we shouldn't expect a curve makes me pessimistic.
+
+Comment (u/flowergarden3):
+Even if you have to retake 251 next semester, couldn't you just take electives along with it?
+Edit: I hope you pass but everything will be ok.
+
+Comment (u/Hochie_ OP):
+I can take electives, but I already have most requirements out of the way. I've been longing to take the Software Engineering course but now I'll have to wait until next year to take it.
+Thank you for your kind words. I'm just sad that I won't be making progress in my CS branch and I'm robbing $20k from my parents solely because I was too incompetent and unmotivated to push through my limits and take initiative.
+
+Comment (u/flowergarden3):
+I understand your regret but first of all, you don't know the final grade until it comes out. But I hope you are kinder to yourself no matter what happens. The 250 and 251 combo is super rough and sometimes you need another shot to show you understand the material.
+
+Comment (u/Hochie_ OP - Update 1 year later):
+Update: I barely passed with a C.
+I sincerely thank you for the support though, it helped me a lot in coping with the potential failure of CS251 bc this was my first big failure ever since coming to Purdue.
+
+Comment (u/Traditional-Age-9986):
+I have reliable sources telling me 2-3% curve.
+
+Comment (u/Hochie_ OP):
+How reliable are they? asking for a friend.
+
+Comment (u/Traditional-Age-9986):
+Fairly.
+
+Comment (u/Coproxx - CS/DS 26):
+You should be fine but there's no guarantees if the averages were high.
+Welcome to Purdue CS my friend. I took 251 last semester and the A threshold was pretty generous so hold out hope and don't stop grinding.
+
+Comment (u/AccomplishedYou4736):
+Dude, if 251 makes u feel bad, try 381 later, the exam I took last year was 21 pages long.
+Also, don't feel bad about ur gpa, I have 4.0 in freshman year, 3.78 in sophomore, 3.6 in Junior, now I have 3.47 in senior year lol.
+
+Comment (u/HandleJumpy2137):
+If it makes you feel any better I took 251 last semester and didn't finish any of the midterms or final either. Still managed to come out with a B+, the curve is pretty nice, and make sure you do well on the projects since they're a decent chunk of your grade. This is just my opinion too, but I thought the exam 1 material was much harder than exam 2.
+
+Comment (u/MonSteRico):
+Don't worry too much about grades, it never really helps anything. Purdue CS is hard, that's the way it is. If you focus on your gpa and keeping grades up instead of understanding material then you'll fall behind.
+As for the exam itself, if you legitimately get anxiety from looking at the test and it's harder for you to finish it could be worth talking to DRC. The CS members discord is also a great place to ask things.
+Tldr: do about grades too much will cause more anxiety. Worry bout passing of course, but cs is hard and gets harder. Anything after passing can be bonus.
+
+Comment (u/Beastguate - CS 26 Cock Sciences):
+Wow that was literally our homework's from last semester lol, designing a stack with two queues and having amortized constant time operation.
+
+Comment (u/purdoo_):
+I don't think any one ever finishes the whole exam for 251.
+
+Comment (u/lackofemmagination):
+When i took 251, the exams were the same way. Unfinishable and difficult. I know it sucks but just keep trying your best and hope for a curve.
+
+Comment (u/Icy_Childhood_7258 - CS 2025):
+Anyone know hows the curve before in CS 251?
+
+Comment (u/darkdog46 - CS 2024):
+Don't worry so much about your grades. I'm a senior and I've never gotten below an A in non-CS courses, but CS is bringing my overall gpa down. You don't need to be the best at something. I would recommend taking a break before bed — watch a movie or YouTube — and be strict about it. You sound hard working, so you'll be fine in the end.

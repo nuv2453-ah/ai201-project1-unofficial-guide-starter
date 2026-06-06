@@ -1,0 +1,16 @@
+SOURCE: Coursicle - Michael Borkowski Course History
+URL: https://www.coursicle.com/purdue/professors/Michael+Borkowski/
+Department: CS
+
+---
+
+Michael Borkowski teaches at Purdue University.
+
+Courses taught:
+CS 18000 - Problem Solving and Object-Oriented Programming
+CS 25100 - Data Structures and Algorithms
+
+Recent semesters teaching:
+Fall 2025, Spring 2025, Fall 2024
+
+Email: mhborkow@purdue.edu
